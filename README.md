@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+我是明远，一名前端
+
 <!--
 **acmu/acmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
