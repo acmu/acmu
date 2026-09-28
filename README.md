@@ -2,6 +2,10 @@
 
 我是 LinKe，一名 AI 爱好者，坚信 AI 将会彻底颠覆世界
 
+
+<!--
+
+
 曾经提过多个PR：
 
 <img width="935" alt="Google Chrome 2025-03-27 1 17 42 PM" src="https://github.com/user-attachments/assets/31dd7ede-e76d-49eb-b94a-2907d0f33c9c" />
@@ -10,7 +14,6 @@
 <img width="958" alt="Google Chrome 2025-03-27 1 17 11 PM" src="https://github.com/user-attachments/assets/04c4a388-4ddd-4832-91a1-b396fb8a25f7" />
 
 
-<!--
 **acmu/acmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
