@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-我是明远，一名前端
-
-我的博客： [博客地址链接](https://acmu.github.io/my-blog/)
+我是 LinKe，一名 AI 爱好者，坚信 AI 将会彻底颠覆世界
 
 曾经提过多个PR：
 
